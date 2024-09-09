@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\",
+  "WorkspaceRootPath": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\mazepathfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\mazepathfinder\\services\\mazeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\code-challenge\\mazepathfinder\\services\\mazeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|solutionrelative:services\\mazeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\mazepathfinder\\controllers\\mazecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\code-challenge\\mazepathfinder\\controllers\\mazecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|solutionrelative:controllers\\mazecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\mazepathfinder\\models\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|solutionrelative:models\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\code-challenge\\mazepathfinder\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\mazepathfinder\\mazepathfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\code-challenge\\mazepathfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\code-challenge\\mazepathfinder\\mazepathfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|solutionrelative:mazepathfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|c:\\users\\welli\\documents\\repo\\code-challenge\\mazepathfinder\\models\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E3C2FC-6710-4798-BC75-10FBB52FCB15}|MazePathfinder.csproj|solutionrelative:models\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:55:37.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Maze.cs",
-              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\Models\\Maze.cs",
-              "RelativeDocumentMoniker": "Models\\Maze.cs",
-              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\Models\\Maze.cs",
-              "RelativeToolTip": "Models\\Maze.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:52:58.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MazeController.cs",
-              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\Controllers\\MazeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MazeController.cs",
-              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\Controllers\\MazeController.cs",
-              "RelativeToolTip": "Controllers\\MazeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T15:51:58.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MazePathfinder",
-              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\MazePathfinder.csproj",
-              "RelativeDocumentMoniker": "MazePathfinder.csproj",
-              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\MazePathfinder.csproj",
-              "RelativeToolTip": "MazePathfinder.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-08T15:48:53.206Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -122,13 +74,77 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-08T16:20:14.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:55:37.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\Models\\Maze.cs",
+              "RelativeDocumentMoniker": "Models\\Maze.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\Models\\Maze.cs",
+              "RelativeToolTip": "Models\\Maze.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:52:58.835Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MazeController.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\Controllers\\MazeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MazeController.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\Controllers\\MazeController.cs",
+              "RelativeToolTip": "Controllers\\MazeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:51:58.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MazePathfinder.csproj",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\MazePathfinder.csproj",
+              "RelativeDocumentMoniker": "MazePathfinder.csproj",
+              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\MazePathfinder.csproj",
+              "RelativeToolTip": "MazePathfinder.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T15:48:53.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MazeService.cs",
-              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\Services\\MazeService.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\Services\\MazeService.cs",
               "RelativeDocumentMoniker": "Services\\MazeService.cs",
-              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\MazePathfinder\\Services\\MazeService.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\Repo\\Code-Challenge\\MazePathfinder\\Services\\MazeService.cs",
               "RelativeToolTip": "Services\\MazeService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAIAwwD0AAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T15:48:36.62Z",
               "EditorCaption": ""
